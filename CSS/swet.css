@@ -1,0 +1,315 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  overflow-x: hidden;
+}
+.logo{
+  padding: 32px 0px 10px;
+  margin-bottom: 30px;
+  text-align: center;
+  margin-left:-10px;
+}
+
+.text h1{
+  text-align: center;
+  font-weight: 790;
+  font-size: 29px;
+  margin-top: -14px;
+margin-bottom: 12px;
+
+}
+.btn-primary {
+	background: #1877f2;
+	color: white;
+	padding: 17px 40px;
+	border: none;
+	border-radius: 30px;
+	letter-spacing:-0.1px;
+        position:relative;
+	top:23px;
+	right:-640px;
+	font-weight: bold;
+	transition: all 70ms;
+  font-size: 15px;
+
+}
+
+.btn-primary:hover {
+background: #4893F5;
+	cursor: pointer;
+		transform: scale(1.1);
+}
+.texts{
+  box-sizing: border-box;
+-webkit-tap-highlight-color: transparent;
+display: block;
+padding: 0px 535px 0px;
+margin-top: 55px;
+margin-bottom: -32px;
+font-size: 12px;
+font-weight: 400;
+line-height: 16px;
+letter-spacing: 0.25px;
+color: inherit;
+}
+.or{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: 30px;
+	margin: 47px 0 20px;
+}
+
+.or .line{
+	width: 180px;
+	height: 1px;
+	background: lightgray;
+  margin-left: 535px;
+}
+.or .line2{
+	width: 179px;
+	height: 1px;
+	background: lightgray;
+  margin-right: 537px;
+}
+
+.or p{
+	color: grey;
+	font-size: 16px;
+  font-weight: bolder;
+  margin-right: 10px;
+}
+
+.email{
+  text-align: center;
+  font-weight: bolder;
+  margin-left: -285px;
+  margin-top: -1px;
+  box-sizing: border-box;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.25px;
+  font-weight: 700;
+  padding-bottom: 2px;
+}
+.email1{
+  text-align: center;
+  font-weight: bolder;
+  margin-left: -235px;
+  margin-top: -1px;
+  box-sizing: border-box;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.25px;
+  font-weight: 700;
+  padding-bottom: 2px;
+}
+.languagebutton select{
+  border-radius: 2px;
+    width: 121px;
+    height: 47.5px;
+    background:transparent;
+    color:#000000;
+    border: 1px solid rgb(51, 51, 51);
+    line-height: 1.7;
+    padding: 12px;
+    padding-left: 6px;
+    padding-right: 16px;
+    margin-left: 541.5px;
+    margin-top:-21px;
+    font-size: 13px;
+    cursor: pointer;
+}
+.email2{
+  text-align: center;
+  margin-left: -230px;
+  margin-top: -1px;
+  box-sizing: border-box;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.25px;
+  padding-bottom: 2px;
+}
+.email3{
+  text-align: center;
+  font-weight: bolder;
+  margin-left: -229px;
+  margin-top: -1px;
+  box-sizing: border-box;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.25px;
+  font-weight: 700;
+  padding-bottom: 2px;
+}
+.email4{
+  text-align: center;
+  margin-left: -369px;
+  margin-top: -21px;
+  box-sizing: border-box;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.25px;
+  padding-bottom: 2px;
+}
+.languagebutton input{
+  text-align: left;
+  margin-top: -1px;
+  box-sizing: border-box;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.25px;
+  padding-bottom: 2px;
+  padding-left: 7px;
+
+}
+.email5{
+  text-align: center;
+  margin-left: -70px;
+  margin-top: -50px;
+  box-sizing: border-box;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.25px;
+  padding-bottom: 2px;
+}
+.email6{
+  text-align: center;
+  margin-left: 150px;
+  margin-top: -50px;
+  box-sizing: border-box;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.25px;
+  padding-bottom: 2px;
+}
+.radio{
+  text-align: center;
+  font-weight: bolder;
+  margin-left: -267px;
+  margin-top: -1px;
+  box-sizing: border-box;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.25px;
+  font-weight: 700;
+  padding-bottom: 2px;
+}
+.p1{
+
+  text-align: center;
+  font-weight: normal;
+  margin-left: -171px;
+  margin-top: -1px;
+  box-sizing: border-box;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.25px;
+  padding-bottom: 2px;
+}
+.forgivee{
+    color: black;
+	cursor: pointer;
+box-sizing: border-box;
+display: block;
+padding: 1px 680px 1em;
+margin-top: -70px;
+margin-bottom: 0px;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0px;
+color: inherit;
+
+}
+.forgivee1{
+    margin-left:527px;
+    margin-top: 45px;
+    color: black;
+	cursor: pointer;
+  letter-spacing: 0.25px;
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0.25px;
+padding :0px 24px 0px 12px;
+
+}
+.texts22{
+  box-sizing: border-box;
+display: block;
+padding: 0px 535px 0px;
+margin-top: 55px;
+margin-bottom: -32px;
+font-size: 12px;
+font-weight: 400;
+line-height: 16px;
+letter-spacing: 0.25px;
+color: inherit;
+text-align: center;
+}
+.btn-primary12 {
+	background: #1ed760;
+	color: #000000;
+  border: none;
+	font-weight: bold;
+	transition: all 300ms ease;
+  font-size: 14px;
+  border-width: 0;
+  letter-spacing: 1px;
+  margin-left: 675px;
+  margin-bottom: 100px;
+margin-top: 38px;
+  border-radius: 500px;
+font-size: inherit;
+padding: 16px 48px;
+align-items: center;
+}
+
+
+.btn-primary12:hover {
+background: rgb(33, 224,101);
+	cursor: pointer;
+}
+.texts20{
+  box-sizing: border-box;
+  display: block;
+  padding-top: 1px;
+  padding-left :800px;
+  padding-bottom: 10em;
+  margin-top: -70px;
+  margin-bottom: 0px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0px;
+  color: inherit;
+}
+.texts20 {
+  color: rgb(29, 185, 84);
+  transition: all 200ms ease;
+}
+.texts20 a:hover{
+  color:  rgb(29, 185, 84);
+	cursor: pointer;
+}
+.texts20 a:visited{
+  color:#1ed760;
+}
+.texts20 a:link{
+  color:#1ed760;
+}
+.texts20 a:active{
+  color: rgb(29, 185, 84);
+}
+.normal{
+    box-sizing: border-box;
+    display: block;
+    margin-top: -199px;
+    margin-left: 666px;
+    margin-bottom: 0px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0px;
+    color: inherit;
+}

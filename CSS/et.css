@@ -1,0 +1,284 @@
+body{
+    font-family:sans-serif;
+    background-image: url(spot.jpeg);
+    background-repeat: no-repeat;
+    
+    background-size: cover;
+
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+.line {
+    border-bottom: 1px solid #d9dadc;
+    padding: 25px 0 10px;
+    margin-bottom: 30px;
+    text-align: center;
+    width: 100%;
+}
+.hea h3 {
+text-align: center;
+font-weight: bold;
+padding-bottom:30px;
+
+}
+
+.conti {
+    margin-top: -20px;
+    margin-left: -63px;
+   
+   
+}
+
+.header {
+    text-align: center;
+    padding-top: 20px;
+    margin: 25px;
+}
+
+.header h1 {
+    color: #333;
+    font-size: 25px;
+    margin-bottom: 100px;
+}
+
+.btn-holder{
+    width: 300px;
+    margin: 20px auto ;
+margin-top: -50px;
+
+}
+.btn-1{
+    border: none;
+    background-color:#4267B2;
+    padding: 10px 0;
+    margin-top: 10px;
+    color: #fff;
+    border-radius: 100px;
+    font-weight: 700px;
+    text-form: capitalize;
+    letter-spacing: 1px;
+    outline: none;
+    width: 500px;
+    height: 55px;
+    margin-left: -47px;
+    cursor: pointer;
+
+   
+}
+.btn-1:hover{
+   
+   
+}
+.btn-2{
+    border: none;
+    background: black;
+    padding: 10px 0;
+    margin-top: 10px;
+    color: #fff;
+    border-radius: 100px;
+    font-weight: 700px;
+    text-form: capitalize;
+    letter-spacing: 1px;
+    outline: none;
+    width: 500px;
+    height: 55px;
+    margin-left: -47px;
+    cursor: pointer;
+}
+.btn-2:hover{
+   
+   
+}.btn-3{
+    border: none;
+    background: white;
+    padding: 10px 0;
+    margin-top: 10px;
+    color: rgb(97, 93, 93);
+    border-radius: 100px;
+    font-weight: 700px;
+    text-form: capitalize;
+    letter-spacing: 1px;
+    outline: 4px;
+    width: 500px;
+    border: 2.5px solid  rgb(97, 93, 93);
+    height: 55px;
+    margin-left: -47px;
+    cursor: pointer;
+}
+.btn-3:hover{
+    background-color: rgb(97, 93, 93);
+    color: white;
+   
+}.btn-4{
+    border: none;
+    background: white;
+    padding: 10px 0;
+    margin-top: 10px;
+    color: rgb(97, 93, 93);
+    border-radius: 100px;
+    font-weight: 700px;
+    text-form: capitalize;
+    border: 2.5px solid  rgb(97, 93, 93);
+    letter-spacing: 1px;
+    outline: none;
+    width: 500px;
+    height: 55px;
+    margin-left: -47px;
+    cursor: pointer;
+}
+.btn-4:hover{
+    background-color: rgb(97, 93, 93);
+    color: white;
+   
+   
+   
+}
+
+.main{
+    margin-left: 560px;
+
+}
+.form input{
+padding: 20px;
+width: 350px;
+margin-top: 20px;
+border: solid 1px gray;
+color:blanchedalmond;
+
+
+}
+.a{
+border: top;
+display: table;
+font-size: 16px;
+font-weight: bold;
+line-height:24px;
+letter-spacing: 2px;
+margin: 0px auto 1em;
+color: black;
+position: relative;
+text-align: center;
+width: 480px;
+margin-left: -50px;
+margin-top: 18px;
+}
+
+.a::before,.a::after{
+border-top: 1px solid rgba(204,204,204);
+content: "";
+display: table-cell;
+position: relative;
+top: 0.8em;
+width: 42%;
+
+}
+.cont{
+    padding: 8px;
+   
+  }
+  input[type=text], input[type=password] {
+    width: 424px;
+    height:44px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    margin-left: -47px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }  
+
+
+.log{
+float:center;
+display:inline-block;
+width:35%;
+padding:5px 50px;
+ }
+ .log a{
+    padding: 15px 0px;
+height:1.3ren;
+border:0;
+background-color:green;
+border: 1px solid #1da1f2;
+border-radius:50px;
+font-weight:bold;
+text-decoration:none;
+color:white;
+text-align:center;
+display:block;
+font-family:'lato',sans-serif;
+margin-top:55px;
+margin-left: 135px;
+width: 255px;
+bottom: 10px;
+
+ }
+.label {
+  display: block;
+  padding-left: 15px;
+  text-indent: -15px;
+
+}
+input {
+  width: 13px;
+  height: 13px;
+  padding: -44px;
+  margin:0;
+  margin-left: -56px;
+  margin-top: -380px;
+  vertical-align: bottom;
+  position: relative;
+  top: -1px;
+  *overflow: scroll;
+}
+.btn-5{
+ 
+    border: none;
+    background: white;
+    padding: 5px 0;
+    margin-top: 5px;
+    color: rgb(97, 93, 93);
+    border-radius: 100px;
+    font-weight: 700px;
+    text-form: capitalize;
+    border: 2.5px solid  rgb(97, 93, 93);
+    letter-spacing: 1px;
+    outline: none;
+    width: 500px;
+    height: 55px;
+    margin-left: -47px;
+    cursor: pointer;
+}
+.btn-5:hover{
+    background-color: rgb(97, 93, 93);
+    color: white;
+   
+   
+}
+.forgot{
+    margin-left:-50px;
+    margin-top: -100px;
+    color: grey;
+   
+}
+.forgot a
+{
+    color: gray;
+margin-top:35px;
+}
+.dont{
+  text-align:right;
+  margin-top:55px;
+  padding-left: 50px;
+
+}
+.uname{
+    margin-left: -46px;
+}
+.psw{
+    margin-left: -46px;
+}
